@@ -8,6 +8,15 @@
 			"Name": "AutoSizeComments",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		},
+		{
+			"Name": "EdddisonPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/804369d3542644cf96c5c6c53d7085ef"
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
